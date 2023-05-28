@@ -1,7 +1,7 @@
 # HTS
 ### Programming - Unscramble the words
 #
-Selle programmi tarbeks kasutame *python'i* scripti
+Selle ülesande lahendamiseks kasutame *python'i* scripti. Algandmed asuvad failis "wordlist" ja otsitavad andmed tuleb kopeerida faili "otsitavad" (mõlemad leitavad allpoolt). **Mõlemad failid peavad asuma python'i scriptiga samas kaustas ning mõlema faililaiend peab olema .txt**.
 #
 - [otsitavad.txt](https://github.com/AlvinKask/HTS/files/11583785/otsitavad.txt)
 - [wordlist.txt](https://github.com/AlvinKask/HTS/files/11583789/wordlist.txt)

@@ -2,8 +2,7 @@
 - [otsitavad.txt](https://github.com/AlvinKask/HTS/files/11583785/otsitavad.txt)
 - [wordlist.txt](https://github.com/AlvinKask/HTS/files/11583789/wordlist.txt)
 #
-
-'''
+```
 # Loeme sisse wordlist'i faili
 with open("wordlist.txt", "r") as wordlist_file:
     wordlist = wordlist_file.read().splitlines()
@@ -27,4 +26,4 @@ for sõna in otsitavad:
 vastused = [sidumine[otsitav] for otsitav in otsitavad if otsitav in sidumine]
 vastused_str = ", ".join(vastused)
 print(vastused_str)
-'''
+```
